@@ -16,6 +16,28 @@
 
 -----
 
+## 🛠️ 개발/분석 환경
+- **프로그래밍**: Python, Java
+- **머신러닝/분석 라이브러리**: Pandas, Scikit-learn, XGBoost, SHAP
+- **공간 데이터 처리**:
+  - Python: shapely, folium, geopandas
+  - Java: GeoTools 라이브러리 기반 WKT, GeoJSON 파싱 및 시각화
+- **시각화**: matplotlib, seaborn, HTML 기반 folium 지도
+- **기획/문서 작성**: Notion, Google Slides, Excel
+- **API 사용**: SGIS API, 카카오맵 API
+- **GIS 툴**: QGIS, Kepler.gl
+
+-----
+
+## 주요 분석 요소
+- **수요 요인**: 아동 인구, 생활 인구
+- **공급 요인**: 기존 키즈카페 개수 (공공+민간)
+- **접근성 요인**: 대중교통(지하철/버스) 밀집도
+- **위험 요인**: 유해시설(주점, 노래방 등)
+- **정책 요인**: 소득 정보, 주거 가능 면적 (지적편집도 기반)
+
+-----
+
 ## 👥 팀 구성 및 역할 분담
 
 - **장영지** : 
@@ -76,25 +98,5 @@
   - 최종 발표
 
 -----
-
-## 주요 분석 요소
-- **수요 요인**: 아동 인구, 생활 인구
-- **공급 요인**: 기존 키즈카페 개수 (공공+민간)
-- **접근성 요인**: 대중교통(지하철/버스) 밀집도
-- **위험 요인**: 유해시설(주점, 노래방 등)
-- **정책 요인**: 소득 정보, 주거 가능 면적 (지적편집도 기반)
-
------
-
-## 🛠️ 개발/분석 환경
-- **프로그래밍**: Python, Java
-- **머신러닝/분석 라이브러리**: Pandas, Scikit-learn, XGBoost, SHAP
-- **공간 데이터 처리**:
-  - Python: shapely, folium, geopandas
-  - Java: GeoTools 라이브러리 기반 WKT, GeoJSON 파싱 및 시각화
-- **시각화**: matplotlib, seaborn, HTML 기반 folium 지도
-- **기획/문서 작성**: Notion, Google Slides, Excel
-- **API 사용**: SGIS API, 카카오맵 API
-- **GIS 툴**: QGIS, Kepler.gl
 
 
